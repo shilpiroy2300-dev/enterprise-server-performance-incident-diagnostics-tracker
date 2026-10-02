@@ -5,13 +5,13 @@ A cross-functional, 3-page advanced log analytics and business intelligence arch
 ## 📊 Interactive Dashboard Previews
 
 ### Page 1: Executive Operations Pipeline Funnel
-Images/Page1_Executive Pipeline.png
+![Page 1 Preview](Images/Page1_Executive Pipeline.png)
 
 ### Page 2: System Log & Root-Cause Exception Diagnostics
-Images/Page2_Log Diagnostics.png
+![Page 2 Preview](Images/Page2_Log Diagnostics.png)
 
 ### Page 3: Product Supply Chain SLAs & Market Logistics (Python Suite)
-Images/Page3_Product Catalog SLAs.png
+![Page 3 Preview](Images/Page3_Product Catalog SLAs.png)
 
 ---
 
